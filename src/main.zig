@@ -1,5 +1,5 @@
 const std = @import("std");
 
 pub fn main() !void {
-    return error.Oopsi;
+    return error.Oopsy;
 }
